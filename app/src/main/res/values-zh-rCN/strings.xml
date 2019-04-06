@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">"价格计算器 "</string>
+    <string name="app_name">乙醇或汽油</string>
+    <string name="gasolina">"汽油价格 "</string>
+    <string name="etanol">"酒精价格 "</string>
+    <string name="recomendar">最好使用</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="titulo">Price Calculator</string>
+    <string name="app_name">Ethanol Or Gasoline</string>
+    <string name="gasolina">Price of the liter of gasoline:</string>
+    <string name="etanol">Price of the liter of alcohol:</string>
+    <string name="recomendar">It is better to use...</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Calculadora de Precios</string>
+    <string name="app_name">Etanol o gasolina</string>
+    <string name="gasolina">Precio del litro de la gasolina</string>
+    <string name="etanol">Precio del litro de lo alcohol</string>
+    <string name="recomendar">Es mejor usar...</string>
+</resources>
